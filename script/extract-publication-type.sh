@@ -7,4 +7,5 @@ zcat $@ \
                 -block PublicationTypeList -sep "\n\t" \
                     -element PublicationType@UI \
     | grep -vP '\t$' \
+    | awk 'NF>1' \
     | awk -F'\t' 'BEGIN{OFS="\t"}$1~/[0-9]/{i=$1}{print i,$2}'
