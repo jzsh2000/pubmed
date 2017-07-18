@@ -35,3 +35,4 @@ vignettes/*.pdf
 # Other temporary files
 medline17n????.xml.gz
 medline17n????.xml
+*.swp
