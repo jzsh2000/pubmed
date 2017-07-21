@@ -33,6 +33,4 @@ vignettes/*.pdf
 *.knit.md
 
 # Other temporary files
-medline17n????.xml.gz
-medline17n????.xml
 *.swp
