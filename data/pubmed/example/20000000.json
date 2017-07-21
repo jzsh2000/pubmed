@@ -1,0 +1,106 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "uids": [
+            "20000000"
+        ],
+        "20000000": {
+            "uid": "20000000",
+            "pubdate": "2009",
+            "epubdate": "",
+            "source": "J Environ Sci (China)",
+            "authors": [
+                {
+                    "name": "Tabari M",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Salehi A",
+                    "authtype": "Author",
+                    "clusterid": ""
+                }
+            ],
+            "lastauthor": "Salehi A",
+            "title": "Long-term impact of municipal sewage irrigation on treated soil and black locust trees in a semi-arid suburban area of Iran.",
+            "sorttitle": "long term impact of municipal sewage irrigation on treated soil and black locust trees in a semi arid suburban area of iran",
+            "volume": "21",
+            "issue": "10",
+            "pages": "1438-45",
+            "lang": [
+                "eng"
+            ],
+            "nlmuniqueid": "100967627",
+            "issn": "1001-0742",
+            "essn": "",
+            "pubtype": [
+                "Journal Article"
+            ],
+            "recordstatus": "PubMed - indexed for MEDLINE",
+            "pubstatus": "4",
+            "articleids": [
+                {
+                    "idtype": "pubmed",
+                    "idtypen": 1,
+                    "value": "20000000"
+                },
+                {
+                    "idtype": "rid",
+                    "idtypen": 8,
+                    "value": "20000000"
+                },
+                {
+                    "idtype": "eid",
+                    "idtypen": 8,
+                    "value": "20000000"
+                }
+            ],
+            "history": [
+                {
+                    "pubstatus": "entrez",
+                    "date": "2009/12/17 06:00"
+                },
+                {
+                    "pubstatus": "pubmed",
+                    "date": "2009/12/17 06:00"
+                },
+                {
+                    "pubstatus": "medline",
+                    "date": "2010/01/14 06:00"
+                }
+            ],
+            "references": [
+            ],
+            "attributes": [
+                "Has Abstract"
+            ],
+            "pmcrefcount": "",
+            "fulljournalname": "Journal of environmental sciences (China)",
+            "elocationid": "",
+            "doctype": "citation",
+            "srccontriblist": [
+            ],
+            "booktitle": "",
+            "medium": "",
+            "edition": "",
+            "publisherlocation": "",
+            "publishername": "",
+            "srcdate": "",
+            "reportnumber": "",
+            "availablefromurl": "",
+            "locationlabel": "",
+            "doccontriblist": [
+            ],
+            "docdate": "",
+            "bookname": "",
+            "chapter": "",
+            "sortpubdate": "2009/01/01 00:00",
+            "sortfirstauthor": "Tabari M",
+            "vernaculartitle": ""
+        }
+    }
+}
+

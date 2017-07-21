@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2017//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_170101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20000000</PMID>
+        <DateCreated>
+            <Year>2009</Year>
+            <Month>12</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>01</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>12</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1001-0742</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>21</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of environmental sciences (China)</Title>
+                <ISOAbbreviation>J Environ Sci (China)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Long-term impact of municipal sewage irrigation on treated soil and black locust trees in a semi-arid suburban area of Iran.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1438-45</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The effects of municipal sewage irrigation on the soil and black locust (Robinia pseudoacacia L.) tree were studied. For this purpose, two artificial black locust stands under irrigation of municipal sewage and well water were selected in south of Tehran, Iran. Data were collected using technique of systematic random sampling with 4 replicates in each stand. It was found that the growth of black locust tree, as indicated by diameter at breast height, total height, crown length, average crown diameter, basal area and volume, in sewage irrigation stand was much higher than that of well water irrigation stand (P &lt; 0.01). Plant analysis indicated that concentrations of leaf nutrients (N, P, K, Ca, Mg, Na, Fe, Mn, Cu and Zn) were greater in sewage-irrigated trees, without toxicity to the minerals of tree leaf, than those of well waterirrigated trees, and positively correlated with their respective value in soil. Ni, Cr and Pb were not detected in leaf samples. Application of sewage resulted in a 1.5-fold increase in the concentrations of soil nutrients, Ni, Cr and Pb. Among these minerals only Pb and Ni in some soil samples exceeded the toxicity limit. The increase in pH, electrical conductivity (EC) and organic carbon of soil was also observed in sewage irrigation. Results confirm that besides the use as irrigation water, municipal sewages are also a potential source of plant nutrients. However, significant accumulation of heavy metals such as Pb and Ni in soil needs to be monitored.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tabari</LastName>
+                    <ForeName>Masoud</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Forestry, Faculty of Natural Resources and Marine Sciences, Tarbiat Modares University, Tehran 14115-111, Iran. mtabari@modares.ac.ir</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Salehi</LastName>
+                    <ForeName>Azadeh</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Environ Sci (China)</MedlineTA>
+            <NlmUniqueID>100967627</NlmUniqueID>
+            <ISSNLinking>1001-0742</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019216">Metals, Heavy</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012722">Sewage</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012989">Soil Pollutants</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D004784" MajorTopicYN="N">Environmental Monitoring</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007492" MajorTopicYN="N" Type="Geographic">Iran</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019216" MajorTopicYN="N">Metals, Heavy</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000633" MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D031301" MajorTopicYN="N">Robinia</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012722" MajorTopicYN="Y">Sewage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012989" MajorTopicYN="N">Soil Pollutants</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000633" MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014865" MajorTopicYN="N">Waste Disposal, Fluid</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>1</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20000000</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

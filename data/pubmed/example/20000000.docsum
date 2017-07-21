@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE DocumentSummarySet PUBLIC "-//NLM//DTD esummary pubmed 20160808//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20160808/esummary_pubmed.dtd">
+
+<DocumentSummarySet status="OK">
+<DocumentSummary>
+<Id>20000000</Id>
+	<PubDate>2009</PubDate>
+	<EPubDate></EPubDate>
+	<Source>J Environ Sci (China)</Source>
+	<Authors>
+		<Author>
+			<Name>Tabari M</Name>
+			<AuthType>Author</AuthType>
+			<ClusterID></ClusterID>
+		</Author>
+		<Author>
+			<Name>Salehi A</Name>
+			<AuthType>Author</AuthType>
+			<ClusterID></ClusterID>
+		</Author>
+	</Authors>
+	<LastAuthor>Salehi A</LastAuthor>
+	<Title>Long-term impact of municipal sewage irrigation on treated soil and black locust trees in a semi-arid suburban area of Iran.</Title>
+	<SortTitle>long term impact of municipal sewage irrigation on treated soil and black locust trees in a semi arid suburban area of iran</SortTitle>
+	<Volume>21</Volume>
+	<Issue>10</Issue>
+	<Pages>1438-45</Pages>
+	<Lang>
+		<string>eng</string>
+	</Lang>
+	<NlmUniqueID>100967627</NlmUniqueID>
+	<ISSN>1001-0742</ISSN>
+	<ESSN></ESSN>
+	<PubType>
+		<flag>Journal Article</flag>
+	</PubType>
+	<RecordStatus>PubMed - indexed for MEDLINE</RecordStatus>
+	<PubStatus>4</PubStatus>
+	<ArticleIds>
+		<ArticleId>
+			<IdType>pubmed</IdType>
+			<IdTypeN>1</IdTypeN>
+			<Value>20000000</Value>
+		</ArticleId>
+		<ArticleId>
+			<IdType>rid</IdType>
+			<IdTypeN>8</IdTypeN>
+			<Value>20000000</Value>
+		</ArticleId>
+		<ArticleId>
+			<IdType>eid</IdType>
+			<IdTypeN>8</IdTypeN>
+			<Value>20000000</Value>
+		</ArticleId>
+	</ArticleIds>
+	<History>
+		<PubMedPubDate>
+			<PubStatus>entrez</PubStatus>
+			<Date>2009/12/17 06:00</Date>
+		</PubMedPubDate>
+		<PubMedPubDate>
+			<PubStatus>pubmed</PubStatus>
+			<Date>2009/12/17 06:00</Date>
+		</PubMedPubDate>
+		<PubMedPubDate>
+			<PubStatus>medline</PubStatus>
+			<Date>2010/01/14 06:00</Date>
+		</PubMedPubDate>
+	</History>
+	<References>
+	</References>
+	<Attributes>
+		<flag>Has Abstract</flag>
+	</Attributes>
+	<PmcRefCount>0</PmcRefCount>
+	<FullJournalName>Journal of environmental sciences (China)</FullJournalName>
+	<ELocationID></ELocationID>
+	<DocType>citation</DocType>
+	<SrcContribList>
+	</SrcContribList>
+	<BookTitle></BookTitle>
+	<Medium></Medium>
+	<Edition></Edition>
+	<PublisherLocation></PublisherLocation>
+	<PublisherName></PublisherName>
+	<SrcDate></SrcDate>
+	<ReportNumber></ReportNumber>
+	<AvailableFromURL></AvailableFromURL>
+	<LocationLabel></LocationLabel>
+	<DocContribList>
+	</DocContribList>
+	<DocDate></DocDate>
+	<BookName></BookName>
+	<Chapter></Chapter>
+	<SortPubDate>2009/01/01 00:00</SortPubDate>
+	<SortFirstAuthor>Tabari M</SortFirstAuthor>
+	<VernacularTitle></VernacularTitle>
+</DocumentSummary>
+</DocumentSummarySet>
+
