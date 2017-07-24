@@ -19,6 +19,7 @@ cat data/pubmed/clean_data/mesh-term/*.mesh \
     | sort -k1b,1 \
     > data/pubmed/clean_data/mesh.major.txt
 
-join -a 1 -e 0 -o auto data/pubmed/clean_data/{mesh.all.txt,mesh.major.txt} \
+join -a 1 -e 0 -o auto -t $'\t' \
+    data/pubmed/clean_data/{mesh.all.txt,mesh.major.txt} \
     > data/pubmed/clean_data/mesh.txt
 rm data/pubmed/clean_data/mesh.*.txt
