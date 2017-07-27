@@ -1,1 +1,0 @@
-ftp://nlmpubs.nlm.nih.gov/online/mesh/2016/xmlmesh/
