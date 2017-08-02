@@ -3,5 +3,6 @@ mesh-term/
 publication-type/
 content/
 date/
+author/
 *.bak/
 pubmed-mesh.txt
