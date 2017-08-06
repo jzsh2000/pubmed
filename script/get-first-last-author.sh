@@ -14,4 +14,5 @@ cat data/pubmed/clean_data/author/*.author \
                i=$1
            }
            else {line = $0}
-       }'
+       }' \
+    > data/pubmed/clean_data/author_fl.txt
