@@ -1,6 +1,15 @@
 #!/usr/bin/env bash
 set -ueo pipefail
 
+# 示例输出：
+# 四列分别为 pubmed_id | last_name | fore_name | initials
+# 1       Makar   A B     AB
+# 1       McMartin        K E     KE
+# 1       Palese  M       M
+# 1       Tephly  T R     TR
+# 2       Bose    K S     KS
+# 2       Sarma   R H     RH
+
 zcat $@ \
     | xtract -pattern PubmedArticle \
                 -element MedlineCitation/PMID \
