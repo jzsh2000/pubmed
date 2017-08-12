@@ -6,4 +6,5 @@ date/
 author/
 *.bak/
 pubmed-mesh.txt
+pubmed-pdat.txt
 author_fl.txt
